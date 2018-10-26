@@ -1,0 +1,7 @@
+C:\Users\sshahid\OneDrive - KNEX\Desktop\GrandCircusLab1-shah\Assessment_3\MyPeeps_WelcomeToTheTeam\MyPeeps_WelcomeToTheTeam\bin\Debug\MyPeeps_WelcomeToTheTeam.exe.config
+C:\Users\sshahid\OneDrive - KNEX\Desktop\GrandCircusLab1-shah\Assessment_3\MyPeeps_WelcomeToTheTeam\MyPeeps_WelcomeToTheTeam\bin\Debug\MyPeeps_WelcomeToTheTeam.exe
+C:\Users\sshahid\OneDrive - KNEX\Desktop\GrandCircusLab1-shah\Assessment_3\MyPeeps_WelcomeToTheTeam\MyPeeps_WelcomeToTheTeam\bin\Debug\MyPeeps_WelcomeToTheTeam.pdb
+C:\Users\sshahid\OneDrive - KNEX\Desktop\GrandCircusLab1-shah\Assessment_3\MyPeeps_WelcomeToTheTeam\MyPeeps_WelcomeToTheTeam\obj\Debug\MyPeeps_WelcomeToTheTeam.csprojAssemblyReference.cache
+C:\Users\sshahid\OneDrive - KNEX\Desktop\GrandCircusLab1-shah\Assessment_3\MyPeeps_WelcomeToTheTeam\MyPeeps_WelcomeToTheTeam\obj\Debug\MyPeeps_WelcomeToTheTeam.csproj.CoreCompileInputs.cache
+C:\Users\sshahid\OneDrive - KNEX\Desktop\GrandCircusLab1-shah\Assessment_3\MyPeeps_WelcomeToTheTeam\MyPeeps_WelcomeToTheTeam\obj\Debug\MyPeeps_WelcomeToTheTeam.exe
+C:\Users\sshahid\OneDrive - KNEX\Desktop\GrandCircusLab1-shah\Assessment_3\MyPeeps_WelcomeToTheTeam\MyPeeps_WelcomeToTheTeam\obj\Debug\MyPeeps_WelcomeToTheTeam.pdb
